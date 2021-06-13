@@ -5,10 +5,51 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Janet Iqal's Portfolio</title>
-    <link href="./Assets/reset.css" rel="stylesheet">
-    <link href= "Assets/style.css" rel= "stylesheet">
+    <link href="./assets/reset.css" rel="stylesheet">
+    <link href="./assets/style.css" rel= "stylesheet">
 </head>
 <body>
-    
+    <header>
+        <h1>Welcome</h1>
+            <nav>               
+                <ul>
+                 <li> <a href =#aboutme>About Me</a></li>
+                 <li> <a href = #mywork>My Work </a></li>
+                 <li> <a href = #contact>Contact Me</a></li>
+                </ul>
+            </nav>
+    </header>
+    <main>
+        <div id="aboutme">
+            <h2>About Me</h2>
+            <img src="images/IMG_5401.jpg" alt="Picture of me enjoying the sunset.">
+                <p>I graduated from Loyola University Chicago with a bachelors degree in Biology...so how did I end up here? I minored in Bio-Statistics my last year in school and we dabbled in programs like R and used coding to model data from large data sets. That exposure made me put my plans on hold for pharmacy school.I  went into EMS to figure out if I should continue with a career in medicine. Unfortunately for the field of medicine, I decided to take my talents to become a full stack web developer. The seed was planted years ago and I am grateful because here I am--building my portfolio page, showing you all the fun things I have leanred to do in such a short time.</p>
+        </div>
+        <div id="mywork">
+            <h2>My Work</h2>
+            <img src="images/loading.png" alt="loading symbol">
+            <img src="">
+        </div>
+        <div id="contact">
+            <h2>Contact Me</h2>
+                 <p>I am brand new to the vast world of full stack web development but I am enjoying every step of the way. I am eager to hear from seasoned web developers who love what they do! If this sounds like you please reach out, coffee is on me! 
+                </p>
+            <form>
+              <div>
+                    <label for = "name">Name:</label>
+                    <input type="text" id="name" name="name">
+              </div>
+              <br>
+              <div>
+                    <label for="email">Email:</label>
+                    <input type="text" id="email" name="email">
+              </div>
+                <br>
+               <div id="submit">
+                    <input type="submit" value="Submit">
+                </div>
+            </form>
+        </div>    
+    </section>
 </body>
 </html>
