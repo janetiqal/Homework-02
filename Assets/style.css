@@ -1,0 +1,129 @@
+body {
+  background-color:rgb(247, 241, 227);
+}
+.container{
+  margin: auto;
+}
+/* styling the h1 element "welcome" */
+.header {
+  background-color:rgb(27, 20, 100);
+  display:flex;
+  color: rgb(234, 32, 39);
+  font-size: 60px;
+  padding: 85px;
+  text-decoration: line-through rgb(255, 195, 18);
+  text-transform: uppercase;
+  letter-spacing: -15px;
+
+}
+/* position of h1 element */
+.header h1{
+  position: relative;
+  top:75px;
+  right: 75px;
+}
+/* navbar styling */
+ .navbar ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  background-color: #d1ccc0;
+  margin-bottom: 75px;
+}
+ /* removing the underline in the anchor tag */
+.navbar a {
+  text-decoration: none;
+  color: rgb(4, 4, 73);
+  
+}
+/* styling the li */
+.buttons {
+  border: 2px  rgb(27, 20, 100);
+  text-transform: uppercase;
+  padding: 3px;
+  letter-spacing: 1.3px;
+  font-size: 22px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* body of the page  */
+.container h2 {
+  margin:30px;
+  margin-right: 50px;
+  border: solid;
+  font-size: 45px;
+  width: 10%;
+}
+/* styling the about me section */
+.section1 {
+  display: flex;
+  flex-direction: row; 
+  margin-bottom: 20px;
+}
+
+.section1 p {
+  position: relative;
+  top: 100px;
+  width: 50%;
+  font-size: 22px;
+  line-height: 1.5em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  justify-content: space-evenly;
+}
+.avatar img {
+  width: 20vw;
+  height: 40vh;  
+  padding:15px;
+}
+/* to get the caption to stay under the image, I added br in html mid sentence. */
+.avatar figcaption {
+  text-align: center;
+  color:black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* section 2 styling */
+
+.section2 {
+  display:flex;
+  flex-direction: row; 
+  margin-bottom: 20px;
+}
+.appLarge {
+  height:600px;
+  width:600px;
+}
+
+.loading {
+  width:200px;
+  height: 200px;
+}
+/* the three small applications being positioned */
+#figure4 {
+ position:relative;
+ left: 200%;
+ top: -2%;
+}
+
+#figure3 {
+  position: relative;
+ left: 100%;
+ }
+
+ #figure2 {
+ position: relative;
+ left: 200%;
+ bottom: -2%;
+ }
+/* captions on all photos in mywork section */
+ #mywork figcaption {
+   text-align: center;
+   font-size: 22px;
+ }
+.section3 {
+  /* display: block; or flex? */
+  flex-direction: column;
+}
+form {
+  text-align: center;
+}
