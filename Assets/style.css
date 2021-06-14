@@ -5,7 +5,7 @@ body {
   margin: auto;
 }
 /* styling the h1 element "welcome" */
-.header {
+header {
   background-color:rgb(27, 20, 100);
   display:flex;
   color: rgb(234, 32, 39);
@@ -17,7 +17,7 @@ body {
 
 }
 /* position of h1 element */
-.header h1{
+header h1{
   position: relative;
   top:75px;
   right: 75px;
