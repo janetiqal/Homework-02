@@ -1,8 +1,11 @@
 body {
   background-color:rgb(247, 241, 227);
 }
-.container{
-  margin: auto;
+.container {
+  /* display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  justify-content: space-evenly; */
 }
 /* styling the h1 element "welcome" */
 header {
@@ -49,8 +52,7 @@ header h1{
 }
 /* body of the page  */
 .container h2 {
-  margin:30px;
-  margin-right: 50px;
+  margin:30px; 
   border: solid;
   font-size: 45px;
   width: 12%;
@@ -90,48 +92,44 @@ header h1{
   background-color: #d1ccc0;
   margin-top:100px;
   padding-right: 400px;
+  height:80vh;
 }
- 
+ /* images in section 2 */
 .appLarge {
-  height:600px;
-  width:600px;
+  height:70vh;
+  width:34vw;
   padding-top: 30px;
 }
-
+/* the 4 small loading images */
 .loading {
-  width:200px;
-  height:200px;
+  width:15vw;
+  height:28vh;
 }
-/* the 4 small applications being positioned */
-#figure4 {
- position:relative;
- left: 200%;
- top: -2%;
-}
-
-#figure3 {
+/* img 2 (small) etc. */
+#figure2 {
   position: relative;
- left: 100%;
- }
+  top:275px;
+  padding-left: 20px;
+  }
 
- #figure2 {
- position: relative;
- left: 200%;
- bottom: -2%;
- padding-top:15px;
- }
+  #figure3 {
+    position: relative;
+    right: -30px;
+    top: 50px;
+   }
+
+   #figure4 {
+    position:relative;
+    top: 450px;
+    right:250px;
+   }
 
  #figure5 {
   position: relative;
-  left: 300%;
-  bottom: 50%;
-  
-  }
-/* captions on all photos in mywork section */
- #mywork figcaption {
-   text-align: center;
-   font-size: 22px;
- }
+  left:-200px;
+  top:275px;
+  } 
+
 .section3 {
   display: flex;
   flex-direction: row;
@@ -140,7 +138,7 @@ header h1{
 
 /* style for the contact me form and p */
 .form {
-  /* width: 50%; */
+  width: 75%;
   text-align: center;
   /* position: relative;
   /* top:-100px; switched this off when i displayed flex section 3 instead of inline and column
