@@ -104,7 +104,9 @@ header h1{
 .loading {
   width:15vw;
   height:28vh;
+  position: absolute;
 }
+
 /* img 2 (small) etc. */
 #figure2 {
   position: relative;
@@ -151,6 +153,12 @@ header h1{
   /* justify-content: space-between; */
 }
 
+#name  {
+  height:250px;
+}
+#submit {
+  height: 50px;
+}
 form {
   padding-top:10px;
   font-size: 35px;
@@ -162,3 +170,25 @@ footer {
   padding-bottom:15px;
 }
 
+@media screen and (max-width:768px) {
+
+}
+
+@media screen and (max-width:994px) {
+  
+}
+@media screen and (max-width: 500px) {
+  #avatar{
+    margin-left: 50px;
+  }
+  .section1 p {
+    margin-top: -75px;
+  }
+  .section1 h2 {
+    width:28vw;
+  }
+  header h1 {
+    font-size:100px;
+    letter-spacing: -8px;
+  }
+}
