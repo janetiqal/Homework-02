@@ -17,4 +17,4 @@ https://janetiqal.github.io/Homework-02/
 <img width="1440" alt="Screen Shot 2021-06-16 at 11 05 07 AM" src="https://user-images.githubusercontent.com/84414488/122297168-d525d080-cec0-11eb-9290-b01a2c09af35.png">
 ## Created by
 Janet Iqal
-THIS IS THE CHANGE TO CHECK HOW GET PULL WORKS
+
