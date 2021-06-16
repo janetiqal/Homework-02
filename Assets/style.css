@@ -194,25 +194,158 @@ footer {
   padding-bottom:15px;
 }
 
-@media screen and (max-width:768px) {
 
+
+@media screen and (max-width:992px) {
+ 
+.section1 h2 ,.section3 h2 {
+ width:175px;
 }
 
-@media screen and (max-width:994px) {
-  
+.avatar img {
+  width: 35vw;
+  height:75vh;
+}
+.avatar{
+  padding-top: 40px;
+  margin-top:-50px;
+}
+.section1 p {
+  font-size: 16px;
+}
+.avatar figcaption{
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.section2 {
+  flex-direction: column;
+  height: 750px;
+  width:100%;
+  margin-top: 50px;
+}
+.section2 h2{
+  width:830px;
+  text-align: center;
+  margin:0;
+}
+.section2 figure {
+  margin:0 auto;
+}
+.section2 figcaption {
+  font-size: 18px;
+}
+.section3{
+  margin-top:-50px;
+
+}
+#smallpics {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+.appLarge{
+  width:60vw;
+  height: 90vh;
+}
+#submit {
+  height: 8vh;
+  width: 10vw;
+}
+
+
+
+@media screen and (max-width:768px) {
+ header h1 {
+   position: relative;
+   top:-75px;
+   right:-150px;
+ }
+  .section1 , .section3 {
+  flex-direction: column;
+  } 
+.section1 h2 , .section3 h2 {
+  width: 650px;
+  text-align: center;
+}
+.section2 h2{
+  width: 692px;
+}
+.avatar{
+  margin:0 auto;
+}
+.section1 p {
+  width: 600px;
+  padding-top: 40px;
+  text-align: justify;
+  margin: 0 auto;
+}
+
+.appLarge {
+  width:75vw;
+  height: 100vh;
+}
+.loading{
+  padding:0;
+  height:45vh;
+  width: 20vw;
+}
+.section2 figcaption{
+  font-size: 14;
 }
 @media screen and (max-width: 500px) {
-  #avatar{
-    margin-left: 50px;
+  .section1 , .section2 , .section3 {
+    flex-direction: column;
+  }
+  .section1 h2 , .section2 h2 ,.section3 h2 {
+    width:450px;
+    text-align: center;
+    margin:0;
+  }
+  .avatar{
+    padding-left: 100px;
+  }
+  .avatar img {
+    width: 50vw;
+    height:75vh;
+  }
+  .avatar figcaption{
+    margin-right:100px;
+    display: inline-flex;
+    font-size: 16px;
+    font-weight: normal;
   }
   .section1 p {
     margin-top: -75px;
-  }
-  .section1 h2 {
-    width:28vw;
+    width:450px;
+    text-align: center;
+    font-size:16px;
   }
   header h1 {
     font-size:100px;
     letter-spacing: -8px;
   }
+
+  .section2 {
+    margin-top:30px;
+    height: 500px;
+  }
+
+.section2 figure {
+  margin:0 auto;
+}
+
+#smallpics {
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin:0;
+}
+.section2 figcaption {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+#submit {
+  height: 8vh;
+  width: 16vw;
 }
