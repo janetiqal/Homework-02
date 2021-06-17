@@ -320,63 +320,6 @@ footer {
 }
 }
 
-/* @media screen and (max-width: 500px) {
-  .section1 , .section2 , .section3 {
-    flex-direction: column;
-  }
-  .section1 h2 , .section2 h2 ,.section3 h2 {
-    width:450px;
-    text-align: center;
-    margin:0 auto;
-  }
-  .avatar{
-    padding-left: 100px;
-  }
-  .avatar img {
-    width: 50vw;
-    height:75vh;
-  }
-  .avatar figcaption{
-    margin-right:100px;
-    display: inline-flex;
-    font-size: 16px;
-    font-weight: normal;
-  }
-  .section1 p {
-    width:450px;
-    text-align: justify;
-    font-size:16px;
-  }
-  header h1 {
-    font-size:75px;
-    bottom:-75px;
-    right:80px;
-    letter-spacing: -8px;
-  }
-  
-  .section2 {
-    margin-top:30px;
-  }
-
-.section2 figure {
-  margin:0 auto;
-}
-
-#smallpics {
-  flex-direction: row;
-  flex-wrap: nowrap;
-  margin:0;
-}
-.section2 figcaption {
-  font-size: 16px;
-  font-weight: normal;
-}
-
-#submit {
-  height: 8vh;
-  width: 16vw;
-}
-}  */
 
 @media screen and (min-width: 320px) and (max-width: 580px) {
   header h1 {
