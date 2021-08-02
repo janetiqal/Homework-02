@@ -13,8 +13,8 @@ I am proud to stand by the page I created but I look forward to revisiting this 
 https://janetiqal.github.io/Homework-02/
 ## Screen Shots of my Portfolio
 <img width="1439" alt="Screen Shot 2021-06-16 at 10 59 13 AM" src="https://user-images.githubusercontent.com/84414488/122296998-b1628a80-cec0-11eb-81a7-a508801c6e08.png">
-<img width="1440" alt="Screen Shot 2021-06-16 at 10 59 22 AM" src="https://user-images.githubusercontent.com/84414488/122297143-cdfec280-cec0-11eb-9ccd-d1a3c523aa2f.png">
-<img width="1440" alt="Screen Shot 2021-06-16 at 11 05 07 AM" src="https://user-images.githubusercontent.com/84414488/122297168-d525d080-cec0-11eb-9290-b01a2c09af35.png">
+<img width="1044" alt="Screen Shot 2021-08-02 at 11 57 22 AM" src="https://user-images.githubusercontent.com/84414488/127897442-775b434a-0e81-4751-89f1-54731e424c4d.png">
+<img width="1339" alt="Screen Shot 2021-08-02 at 11 57 54 AM" src="https://user-images.githubusercontent.com/84414488/127897571-727b6b20-e868-473e-9f06-125e120ba6a2.png">
 ## Created by
 Janet Iqal
 
