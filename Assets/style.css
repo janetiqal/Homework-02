@@ -117,15 +117,15 @@ header h1{
 }
  /* large image in section 2 */
 .appLarge {
-  height:70vh;
-  width:34vw;
+  height:68vh;
+  width:32vw;
   padding-top: 30px;
 }
 
 /* the 4 small loading images and the captions of images */
 .loading {
-  width:15vw;
-  height:28vh;
+  width:18vw;
+  height:30vh;
   padding:15px;
 }
 
@@ -139,7 +139,7 @@ header h1{
 .section2 figcaption {
   text-align: center;
   font-size: 20px;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 
