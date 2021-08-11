@@ -12,9 +12,9 @@ I am proud to stand by the page I created but I look forward to revisiting this 
 ## Link to the app
 https://janetiqal.github.io/Homework-02/
 ## Screen Shots of my Portfolio
-<img width="1439" alt="Screen Shot 2021-06-16 at 10 59 13 AM" src="https://user-images.githubusercontent.com/84414488/122296998-b1628a80-cec0-11eb-81a7-a508801c6e08.png">
-<img width="1044" alt="Screen Shot 2021-08-02 at 11 57 22 AM" src="https://user-images.githubusercontent.com/84414488/127897442-775b434a-0e81-4751-89f1-54731e424c4d.png">
-<img width="1339" alt="Screen Shot 2021-08-02 at 11 57 54 AM" src="https://user-images.githubusercontent.com/84414488/127897571-727b6b20-e868-473e-9f06-125e120ba6a2.png">
+<img width="1439" alt="Screen Shot 2021-06-16 at 10 59 13 AM" src="">
+<img width="1044" alt="Screen Shot 2021-08-02 at 11 57 22 AM" src="">
+<img width="1339" alt="Screen Shot 2021-08-02 at 11 57 54 AM" src="">
 ## Created by
 Janet Iqal
 
