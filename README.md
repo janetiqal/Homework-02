@@ -1,4 +1,3 @@
-
 ## Homework Assignment 02
 ## Name of Assignment
 Homework-02 Personal Portfolio
@@ -12,9 +11,11 @@ I am proud to stand by the page I created but I look forward to revisiting this 
 ## Link to the app
 https://janetiqal.github.io/Homework-02/
 ## Screen Shots of my Portfolio
-<img width="1439" alt="Screen Shot 2021-06-16 at 10 59 13 AM" src="">
-<img width="1044" alt="Screen Shot 2021-08-02 at 11 57 22 AM" src="">
-<img width="1339" alt="Screen Shot 2021-08-02 at 11 57 54 AM" src="">
+<img width="1149" alt="ScreenShot of AboutMe Section" src="https://user-images.githubusercontent.com/84414488/129073227-b914d50e-4f0d-4e38-bbe2-3b038d494efe.png">
+<img width="1081" alt="Screen Shot 2021-08-11 at 12 08 17 PM" src="https://user-images.githubusercontent.com/84414488/129073527-83a19838-9efc-4841-a289-a9f8c5205568.png">
+<img width="1159" alt="Screen Shot 2021-08-11 at 12 07 59 PM" src="https://user-images.githubusercontent.com/84414488/129073444-2d53440d-bcdf-44c8-b3ea-9fc597b9e702.png">
+
 ## Created by
 Janet Iqal
+
 
